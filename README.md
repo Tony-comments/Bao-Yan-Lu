@@ -260,10 +260,7 @@ Introduce your family。 （PS. 我现在很后悔当初没有去考雅思）
 
 ***
 
-欢迎转载，但请注明原文地址和作者，谢谢～
-
 作者 [@sorahjy][1]<br />
-我的github： https://github.com/sorahjy <br />
 2018 年 09月 23日
 
 [1]: https://github.com/sorahjy
